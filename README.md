@@ -1,2 +1,2 @@
 # clipper-test
-Docker builder and push test #4
+Second test with dockerfile
