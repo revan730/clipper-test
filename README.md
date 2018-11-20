@@ -1,2 +1,2 @@
 # clipper-test
-Docker exec test
+Docker builder and push test
