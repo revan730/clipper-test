@@ -1,2 +1,2 @@
 # clipper-test
-Test of GCR push
+I hope it's the last test of GCR push
