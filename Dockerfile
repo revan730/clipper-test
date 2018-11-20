@@ -1,0 +1,3 @@
+FROM alpine:latest
+CP README.MD README.MD
+ENTRYPOINT ["cat","README.MD"]
