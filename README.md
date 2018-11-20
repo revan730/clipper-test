@@ -1,2 +1,2 @@
 # clipper-test
-Second test with dockerfile
+Test of GCR push
