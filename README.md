@@ -1,2 +1,2 @@
 # clipper-test
-Testing db write
+Testing github status
