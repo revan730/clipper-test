@@ -1,2 +1,2 @@
 # clipper-test
-Testing github status
+Second test of github status
