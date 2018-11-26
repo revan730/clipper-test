@@ -1,2 +1,2 @@
 # clipper-test
-PR test  of github status
+Third test of github status
