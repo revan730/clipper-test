@@ -1,3 +1,3 @@
 # clipper-test
-Broken PR test of github status
+Fixed PR test of github status
 
