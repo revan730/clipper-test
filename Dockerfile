@@ -1,4 +1,4 @@
 FROM alpine:latest
-RUNZ ls
+RUN ls
 COPY README.md README.md
 ENTRYPOINT ["cat","README.md"]
