@@ -1,3 +1,3 @@
 # clipper-test
-Fixed PR test of github status
+Testing if CI pipeline still works
 
