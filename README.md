@@ -1,3 +1,3 @@
 # clipper-test
-Testing if CI pipeline works in GCP
+Second test if CI pipeline works in GCP
 
